@@ -18,3 +18,14 @@ What is a promise?
 
 It represents the evetual result of an asynchronous operations. It is a placeholder into which the successful result value or reason for failure will materialize. 
 
+Top 10 ways to speed up your site 
+
+Minimize HTTP requrests 
+minify and combine files 
+use asynchronous loading for CSS and JS files 
+Defer JS loading 
+minimuze time to first byte 
+reduce server response time 
+choose right hosting option for your needs 
+run a compression audit 
+enable compression enable brower caching 
