@@ -29,3 +29,17 @@ reduce server response time
 choose right hosting option for your needs 
 run a compression audit 
 enable compression enable brower caching 
+
+Why is FTP a bad idea? 
+
+Sesitive data can be intercepted when sent. Also leaves a log in session open when the user leaves. 
+
+What keeps of information is at risk when communications overHTTP? 
+
+session information 
+credit card information 
+any other sensative data 
+
+Why should you ensure that files on a web server are not being executed by root? 
+
+Root has the ability to change anything on the server (has great power). If someone bad ges ahold of that, he can cause greate harm to the website. 
