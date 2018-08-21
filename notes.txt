@@ -1,3 +1,20 @@
 what is binary search lograrithmic time? 
 
 Since the array is already sorted, after checking the target to the midpoint, one only needs to check half of the array, with the process continuiing until the target is found. 
+
+What arguments does the Promise object take? 
+
+An executor, which calls a resovle or reject function based on the result (success or failure) 
+
+What arguments does the resolve function take? 
+
+The result of te promist for if the promise is successful 
+
+What arguments does then take? 
+
+Two functions. One that executes when the promise is successful, and another that runs when the promise is not. 
+
+What is a promise? 
+
+It represents the evetual result of an asynchronous operations. It is a placeholder into which the successful result value or reason for failure will materialize. 
+
