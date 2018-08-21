@@ -1,0 +1,3 @@
+what is binary search lograrithmic time? 
+
+Since the array is already sorted, after checking the target to the midpoint, one only needs to check half of the array, with the process continuiing until the target is found. 
